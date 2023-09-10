@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1688534784 source:c:\users\wilmac\desktop\projects\cookos c++\cookos\src\foodmenu.cpp
+	"foodMenu.h"
+
+1688534784 c:\users\wilmac\desktop\projects\cookos c++\cookos\include\foodmenu.h
+
+1688534577 source:c:\users\wilmac\desktop\projects\cookos c++\cookos\src\receipe.cpp
+	"receipe.h"
+
+1688534577 c:\users\wilmac\desktop\projects\cookos c++\cookos\include\receipe.h
+
+1688585625 source:c:\users\wilmac\desktop\projects\cookos c++\cookos\src\recipe.cpp
+	<iostream>
+	"recipe.h"
+	<cstdlib>
+
+1688571852 c:\users\wilmac\desktop\projects\cookos c++\cookos\include\recipe.h
+
+1688587741 source:c:\users\wilmac\desktop\projects\cookos c++\cookos\main.cpp
+	<iostream>
+	<ingridients.h>
+	<recipe.h>
+	<string>
+
+1688582166 source:c:\users\wilmac\desktop\projects\cookos c++\cookos\src\ingridients.cpp
+	"ingridients.h"
+
+1688576552 c:\users\wilmac\desktop\projects\cookos c++\cookos\include\ingridients.h
+
+1688587741 source:c:\users\user\desktop\32gb\projects\cookos c++\cookos\main.cpp
+	<iostream>
+	<ingridients.h>
+	<recipe.h>
+	<string>
+
+1688576552 c:\users\user\desktop\32gb\projects\cookos c++\cookos\include\ingridients.h
+
+1688571852 c:\users\user\desktop\32gb\projects\cookos c++\cookos\include\recipe.h
+
+1688534784 source:c:\users\user\desktop\32gb\projects\cookos c++\cookos\src\foodmenu.cpp
+	"foodMenu.h"
+
+1688534784 c:\users\user\desktop\32gb\projects\cookos c++\cookos\include\foodmenu.h
+
+1688582166 source:c:\users\user\desktop\32gb\projects\cookos c++\cookos\src\ingridients.cpp
+	"ingridients.h"
+
+1688534577 source:c:\users\user\desktop\32gb\projects\cookos c++\cookos\src\receipe.cpp
+	"receipe.h"
+
+1688534577 c:\users\user\desktop\32gb\projects\cookos c++\cookos\include\receipe.h
+
+1688585625 source:c:\users\user\desktop\32gb\projects\cookos c++\cookos\src\recipe.cpp
+	<iostream>
+	"recipe.h"
+	<cstdlib>
+

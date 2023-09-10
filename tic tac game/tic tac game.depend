@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1688059603 source:c:\users\wilmac\desktop\c++ projects\tic tac game\tic tac game\main.cpp
+	<iostream>
+	<string>
+
+1688265926 source:c:\users\wilmac\desktop\projects\tic tac game c++\tic tac game\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+
+1688272364 source:c:\users\user\desktop\32gb\projects\tic tac game c++\tic tac game\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+
